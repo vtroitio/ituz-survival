@@ -587,11 +587,6 @@ file = "options.txt"
 hash = "f45a0fc43c5cc9c4c24e2f01f9549d0fee19a37e62b9baebeabe69dd52dcefa1"
 
 [[files]]
-file = "resourcepacks/better-lanterns.pw.toml"
-hash = "f72cfc060d31b7ebe26b755d8ddd95d80180fdc70f96d79cf4b6b21fbafce0d2"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fa-player-extension.pw.toml"
 hash = "fa1d7ba075806a4650ed488c13d5f0f8debfdb5b248edb0fc428ce2859baf728"
 metafile = true

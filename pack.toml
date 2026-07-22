@@ -1,0 +1,11 @@
+name = "Ituz Survival"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b252e19682f01bb849d6017f54a08410200a6d1573ee7e3f17d3aa9132169a79"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Effectual"
+filename = "effectual-forge-1.4.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5bf0fb0c5696ffb76b2e78b5a808c5872b0725d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8481291
+project-id = 1171658

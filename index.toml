@@ -426,7 +426,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaerohud.txt"
-hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -553,11 +553,6 @@ hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
 metafile = true
 
 [[files]]
-file = "mods/neat.pw.toml"
-hash = "68570fa47544ab832493cc20bcb2a13715fe02bd29e53f5f69c3a1e9d5650299"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
@@ -580,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/tlib.pw.toml"
 hash = "6692ee1cec8077d316ebca9e014dc8b225158c2db4003146659b37aab24d10c9"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-unofficial.pw.toml"
+hash = "0fee410f465c9b07f0b975c78db300084f2cfb001a4f17e41e8219ec9423c668"
 metafile = true
 
 [[files]]

@@ -488,6 +488,11 @@ hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "a04ef61e1fbb9f123034b8016877a45ac3248f47cb53a528d0436a03924073a9"
+metafile = true
+
+[[files]]
 file = "mods/fungal-infection-spore.pw.toml"
 hash = "876556c907d5eed7a1b6b8d85bd359c5fdbba3d3f5336b179ac78e1d4a89ca71"
 metafile = true
@@ -540,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "22e247ae9d30f9cbe247f370a29968684ff426c6b06f8ccffec0bf72a4f6ceaf"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
 metafile = true
 
 [[files]]

@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "d5bbf1d80ecd2261d38311b897469fdd2dd48029bc520193bfefbc4407f5cc81"
-metafile = true
-
-[[files]]
 file = "config/alexscaves-client.toml"
 hash = "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758"
 
@@ -639,4 +634,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "d5bbf1d80ecd2261d38311b897469fdd2dd48029bc520193bfefbc4407f5cc81"
 metafile = true
